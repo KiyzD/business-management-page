@@ -1,0 +1,13 @@
+# Read about fixtures at https://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  content: MyString
+  reserved_by: MyString
+  is_done: false
+  time_stamp: 1
+
+two:
+  content: MyString
+  reserved_by: MyString
+  is_done: false
+  time_stamp: 1
